@@ -1,6 +1,6 @@
 # MathJax
 
-## Beautiful math in all browsers
+## Beautiful maths in all browsers
 
 MathJax is an open-source JavaScript display engine for LaTeX, MathML, and
 AsciiMath notation that works in all modern browsers.  It was designed with
